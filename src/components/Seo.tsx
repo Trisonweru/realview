@@ -6,7 +6,8 @@ import { openGraph } from '@/lib/helper';
 // !STARTERCONF Change these default meta
 const defaultMeta = {
   title: 'RealView',
-  siteName: 'RealView',
+  siteName:
+    'Buy or rent properties with RealView, the most reliable real estate application.',
   description:
     'Buy or rent properties with RealView, the most reliable real estate application.',
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
