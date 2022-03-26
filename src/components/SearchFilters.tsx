@@ -13,9 +13,9 @@ import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 import { MdCancel } from 'react-icons/md';
 
-import noresult from '../assets/images/noresult.svg';
 import { baseUrl, FetchApi } from '../utils/FetchAPI';
 import { filterData, getFilterValues } from '../utils/FilterData';
+import noresult from '../../public/images/noresult.svg';
 
 export default function SearchFilters() {
   const [filters] = useState(filterData);
