@@ -8,7 +8,7 @@ const defaultMeta = {
   title: 'RealView',
   siteName: 'RealView',
   description:
-    'A starter for Next.js, Tailwind CSS, and TypeScript with Absolute Import, Seo, Link component, pre-configured with Husky',
+    'Buy or rent properties with RealView, the most reliable real estate application.',
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
   url: 'https://tsnext-tw.thcl.dev',
   type: 'website',
